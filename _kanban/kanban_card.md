@@ -1,5 +1,5 @@
 ---
-title: "Kanban Card"
+title: "What is a Kanban Card?"
 permalink: /kanban/kanban_card/
 excerpt: "Description of the different attributes of a kanban cards"
 toc: true
@@ -7,7 +7,6 @@ toc_label: "The Kanban Card"
 toc_icon: "columns"
 ---
 
-# What is a Kanban Card?
 ## The Defenition of a Kanban Card
 
 Тhe Kanban card and the Kanban board are the two main components of Kanbanize.
