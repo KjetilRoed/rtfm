@@ -272,6 +272,6 @@ defaults:
 
 
  # Collections
- collections:
+collections:
    kanban:
      permalink: /:collection/:path
