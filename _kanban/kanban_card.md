@@ -1,5 +1,6 @@
 ---
 title: "Kanban Card"
+permalink: /kanban/kanban_card/
 excerpt: "Description of the different attributes of a kanban cards"
 toc: true
 toc_label: "The Kanban Card"
