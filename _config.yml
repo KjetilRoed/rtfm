@@ -259,6 +259,7 @@ defaults:
       comments: # true
       share: false
       related: true
+  # _kanban
   - scope:
       path: ""
       type: kanban
