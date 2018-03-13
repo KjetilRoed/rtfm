@@ -259,3 +259,18 @@ defaults:
       comments: # true
       share: false
       related: true
+  - scope:
+      path: ""
+      type: kanban
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: false
+      related: true
+
+
+ # Collections
+ collections:
+   kanban:
+     permalink: /:collection/:path
