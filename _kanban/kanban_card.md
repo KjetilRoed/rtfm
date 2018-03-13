@@ -5,6 +5,8 @@ excerpt: "Description of the different attributes of a kanban cards"
 toc: true
 toc_label: "The Kanban Card"
 toc_icon: "columns"
+sidebar:
+  nav: "kanban"
 ---
 
 ## The Defenition of a Kanban Card

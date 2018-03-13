@@ -5,6 +5,8 @@ excerpt: "Learn how to create a new Kanban card!"
 toc: true
 toc_label: "Creating cards"
 toc_icon: "id-card"
+sidebar:
+  nav: "kanban"
 ---
 
 ## How to directly create a Kanban Card?
