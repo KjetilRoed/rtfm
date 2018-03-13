@@ -2,7 +2,7 @@
 title: "Kanban Card"
 excerpt: "Description of the different attributes of a kanban cards"
 toc: true
-toc_label: "Included Layouts"
+toc_label: "The Kanban Card"
 toc_icon: "columns"
 ---
 
