@@ -54,11 +54,11 @@ How to make use out of it?
 2. The extension will be positioned in your browser’s banner. Click on the Kanbanize icon to open the panel.
 3. Use your: Account name (subdomain.kanbanize.com) and login credentials to access it.
 
-![chrome extension](https://kanbanize.com/wp-content/uploads/knowledge-base/CCPlugInCredentials.png)
+    ![chrome extension](https://kanbanize.com/wp-content/uploads/knowledge-base/CCPlugInCredentials.png)
 
 4. Define the board as well as the specific column and swimlane where you want the card to be created. Fill in the Title of the card/task and add a description, if necessary.
 
-![populate](https://kanbanize.com/wp-content/uploads/knowledge-base/CCPlugIncomb.png)
+    ![populate](https://kanbanize.com/wp-content/uploads/knowledge-base/CCPlugIncomb.png)
 
 5. Once you click on the Create Card button, the system notifies you that the card has been created successfully on the board in your Kanbanize account.
 
