@@ -12,9 +12,9 @@ main:
 system:
     - title: "System description"
       children:
-        - title: "The **ORDER** process"
-          url: /content/system/order/
-        - title: "The **PRODUCT** process"
-          url: /content/system/product/
-        - title: "The **ITEM** process"
-          url: /content/system/item/
+        - title: "The order process"
+          url: /system/order/
+        - title: "The product process"
+          url: /system/product/
+        - title: "The item process"
+          url: /system/item/
