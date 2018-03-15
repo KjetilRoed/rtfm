@@ -1,7 +1,7 @@
 ---
-layout: splash
+layout: single
 title: "The Goal"
-permalink: /processes/
+permalink: /system/
 author_profile: true
 ---
 # The Goal!

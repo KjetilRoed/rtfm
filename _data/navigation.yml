@@ -4,12 +4,10 @@ main:
       url: /goal/
     - title: "Values"
       url: /values/
-    - title: "Processes"
-      url: /processes/
+    - title: "System"
+      url: /system/
     - title: "Knowledge"
       url: /knowledge/
-    - title: "Kanban"
-      url: /kanban/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -20,10 +18,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-kanban:
-  - title: Working with Cards
-    children:
-      - title: What is a Kanban card?
-        url: /kanban/kanban_card/
-      - title: How to create a Kanban card?
-        url: /kanban/create_kanban_card/
