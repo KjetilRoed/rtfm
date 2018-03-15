@@ -10,11 +10,25 @@ main:
       url: /knowledge/
 
 system:
-    - title: "System description"
+    - title: "Processes"
       children:
-        - title: "The order process"
+        - title: "Order"
           url: /system/order/
-        - title: "The product process"
+        - title: "Product"
           url: /system/product/
-        - title: "The item process"
+        - title: "Item"
           url: /system/item/
+
+knowledge:
+    - title: "Knowledge"
+      children:
+        - title: "Welding"
+          url: /knowledge/welding/
+        - title: "Material"
+          url: /knowledge/material/
+        - title: "Standard"
+          url: /knowledge/standard/
+        - title: "System theory"
+          url: /knowledge/system-theory/
+        - title: "Software"
+          url: /knowledge/software/
