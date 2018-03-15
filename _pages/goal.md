@@ -2,5 +2,5 @@
 layout: single
 title: "Our goal"
 permalink: /goal/
-author_profile: true
+author_profile: false
 ---
