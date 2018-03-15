@@ -8,13 +8,13 @@ main:
       url: /system/
     - title: "Knowledge"
       url: /knowledge/
-  #- title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+system:
+    - title: "System description"
+      children:
+        - title: "The **ORDER** process"
+          url: /content/system/order/
+        - title: "The **PRODUCT** process"
+          url: /content/system/product/
+        - title: "The **ITEM** process"
+          url: /content/system/item/
