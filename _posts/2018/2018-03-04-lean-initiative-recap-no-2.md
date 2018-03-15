@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "single"
 title: "Lean initiative - recap no 2"
 date: "2018-03-04 21:34"
 ---
