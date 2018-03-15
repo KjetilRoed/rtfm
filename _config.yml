@@ -260,26 +260,19 @@ defaults:
       share: false
       related: true
   # _pages
-    - scope:
+  - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _kanban
-  - scope:
-      path: ""
-      type: kanban
-    values:
-      layout: single
-      author_profile: false
-      read_time: true
-      share: false
-      related: true
-
 
  # Collections
 collections:
-   kanban:
+   knowledge:
+     output: true
+     permalink: /:collection/:path
+collections:
+   system:
      output: true
      permalink: /:collection/:path
