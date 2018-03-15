@@ -1,5 +1,13 @@
 # main links
 main:
+    - title: "Goal"
+      url: /goal/
+    - title: "Values"
+      url: /values/
+    - title: "Proccesses"
+      url: /processes/
+    - title: "Knowledge"
+      url: /knowledge/
     - title: "Kanban"
       url: /kanban/
   #- title: "Quick-Start Guide"
