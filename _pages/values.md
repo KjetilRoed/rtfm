@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Our values"
+title: "OUR VALUES"
 permalink: /values/
 author_profile: false
 ---
