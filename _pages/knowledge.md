@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Goal"
+title: "Our knowledge"
 permalink: /knowledge/
 author_profile: true
 ---

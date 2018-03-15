@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "System description"
+title: "Our system"
 permalink: /system/
 author_profile: false
 sidebar:

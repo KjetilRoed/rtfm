@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Goal"
+title: "Our goal"
 permalink: /goal/
 author_profile: true
 ---
