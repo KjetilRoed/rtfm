@@ -1,9 +1,8 @@
 ---
 layout: single
-title: "The Goal"
+title: "System description"
 permalink: /system/
-author_profile: true
+author_profile: false
 sidebar:
   nav: "system"
 ---
-# The Goal!
