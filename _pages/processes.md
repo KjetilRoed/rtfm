@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "The Goal"
-permalink: /proccesses/
+permalink: /processes/
 author_profile: true
 ---
 # The Goal!

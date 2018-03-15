@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "The Goal"
-permalink: /goal/
+permalink: /knowledge/
 author_profile: true
 ---
 # The Goal!
