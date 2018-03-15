@@ -12,5 +12,5 @@ sidebar:
 ## Test 1
 Dette er test nr. 1
 
-## Test 2
-Dette er test nr. 2
+## Test 3
+Dette er test nr. 3
