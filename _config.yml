@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "rtfm"
 title_separator          : "|"
-name                     : "Construction"
+name                     : "PG Flow Solutions - 62 Construction"
 description              : "Read the fkin manual"
 url                      : "https://sindrekentsrud.github.io"
 baseurl                  : "/rtfm"
@@ -20,7 +20,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : staticman # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : false # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -31,14 +31,14 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          :  ['name', 'email', 'message']
-  branch                 :  "master"
-  commitMessage          :  "New comment."
-  filename               :  comment-{@timestamp}
-  format                 :  "yml"
+  allowedFields          : # ['name', 'email', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
   moderation             : # true
-  path                   :  "/_data/comments/{options.slug}" #(default)
-  requiredFields         :  ['name', 'email', 'message']
+  path                   : # "/_data/comments/{options.slug}" #(default)
+  requiredFields         : # ['name', 'email', 'message']
   transforms:
     email                : # "md5"
   generatedFields:
@@ -92,8 +92,8 @@ analytics:
 author:
   name             : "Sindre Kentsrud"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Fartshed in the corner"
+  bio              : # "I am an amazing person."
+  location         : # "Fartshed in the corner"
   email            : "sik@pg-flowsolutions.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
