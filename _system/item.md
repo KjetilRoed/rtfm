@@ -33,7 +33,7 @@ Kanban cards detailing shape, material grade and quantity
             |--- Roll
             |--- Machine
       |--- Forming done
-|--- [Text](#link){: .btn .btn--success}
+|--- Done
 ```
 
 **Outputs:**
