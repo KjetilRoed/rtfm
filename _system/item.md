@@ -18,7 +18,7 @@ Kanban cards detailing shape, material grade and quantity
 
 **Process:**
 
-'''
+```
 |--- Requested
 |--- Cut
       |--- Cutting
@@ -34,7 +34,7 @@ Kanban cards detailing shape, material grade and quantity
             |--- Machine
       |--- Forming done
 |--- Done
-'''
+```
 
 **Outputs:**
 Items ready for fit-up in steel assemblies and material traceability records (if applicable)
