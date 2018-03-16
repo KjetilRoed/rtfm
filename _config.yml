@@ -271,8 +271,8 @@ defaults:
 collections:
    knowledge:
      output: true
-     permalink: /_content/:collection/:path
+     permalink: /:collection/:path
 collections:
    system:
      output: true
-     permalink: /_content/:collection/:path
+     permalink: /:collection/:path
