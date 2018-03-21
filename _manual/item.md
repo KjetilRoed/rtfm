@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Item Process"
+title: <i class="fas fa-cube"></i> Item Process
 permalink: /manual/item/
 author_profile: false
 sidebar:
