@@ -54,28 +54,38 @@ The product process shall receive all the neccessary items required to build the
 ```
 **REQUESTED**  
 The Requested step gives us information about upcomming work.  
+
 **New requests - Queue**  
 Fresh work that enters the process, items have not been started yet.  
+
 **Waiting for items - Queue**  
 The items process has started to fabricate the needed items, but are not yet finished.  
+
 **Ready to start - Queue**  
 The items process has finished all required items, start when you have capacity.  
 {: .notice--info}  
 
 **IN PROGRESS**  
 The In Progress step gives us information about our current WIP - work in process.  
+
 **Welding - Activity**  
 Products that have withdrawn *full kit* from the *item stockpile* and started welding.  
+
 **Ready for inspection - Queue**  
 Products waiting for inspection.  
+
 **Inspection - Activity**  
 Finished welded products that are subject to visual inspection & dimensional control.  
+
 **Ready for testing - Queue**  
 Products that have passed inspection and are waiting for testing.  
+
 **Testing - Activity**  
 Products that are subject to further testing outside of the *Construction* system. I.e pressure testing, lift testing etc.  
+
 **Ready for external services - Queue**  
 Products that have been fully tested and accepted and are waiting for external services.  
+
 **External services - Activity**  
 Products that have been sent to external service providers. I.e non-destructive testing & surface treatment.  
 {: .notice--warning}  
