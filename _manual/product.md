@@ -17,7 +17,7 @@ The goal of the Product process is to ...
 The main suppliers are:  
 * Order process  
 * Item process
-
+---
 ### Inputs
 Under normal circumstances work should not start without *full kit* consisting of:
 
@@ -30,7 +30,7 @@ Cards shall provide information regarding:
 
 #### Items
 The product process shall receive all the neccessary items required to build the product from the **item process**.
-
+---
 ### Process
 ```
 |--- Requested
@@ -47,7 +47,10 @@ The product process shall receive all the neccessary items required to build the
   |--- External services  
 |--- Done
 ```
-
+---
 ### Outputs
 
+---
 ### Customers
+
+---

@@ -11,18 +11,26 @@ toc_icon: list-ol
 ---
 ## Goal
 
+---
 ## SIPOC
+
+---
 ### Supplier  
 
+---
 ### Inputs
 
+---
 ### Process
 ```
 |--- Requested
 |--- In progress
 |--- Done
 ```
-
+---
 ### Outputs
 
+---
 ### Customers
+
+---
