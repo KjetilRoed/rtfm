@@ -273,6 +273,6 @@ collections:
      output: true
      permalink: /:collection/:path
 collections:
-   system:
+   manual:
      output: true
      permalink: /:collection/:path
