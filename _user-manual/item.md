@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Item Process"
-permalink: /system/item/
+permalink: /user-manual/item/
 author_profile: false
 sidebar:
-  nav: "system"
+  nav: "user-manual"
 ---
 ## Goal
 The goal of the item process is to provide the required materials, in the required quantity at the required time to it's customer.

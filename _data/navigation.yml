@@ -4,8 +4,8 @@ main:
       url: /goal/
     - title: "Values"
       url: /values/
-    - title: "System"
-      url: /system/
+    - title: "User manual"
+      url: /user-manual/
     - title: "Knowledge"
       url: /knowledge/
 
@@ -13,11 +13,11 @@ system:
     - title: "Processes"
       children:
         - title: "Order"
-          url: /system/order/
+          url: /user-manual/order/
         - title: "Product"
-          url: /system/product/
+          url: /user-manual/product/
         - title: "Item"
-          url: /system/item/
+          url: /user-manual/item/
 
 knowledge:
     - title: "Welding"
