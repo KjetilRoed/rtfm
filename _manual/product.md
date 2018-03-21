@@ -7,22 +7,40 @@ sidebar:
   nav: "manual"
 ---
 ## Goal
-
+The goal of the Product process is to
 
 ## SIPOC
-**Supplier:**  
+### Supplier
 
+###Inputs
+Under normal circumstances work should not start without the following:  
+**Kanban cards**  
+Cards shall provide information regarding:  
+* Product routing
+* Requirements to welding
+* Drawing no.
+* Quantity  
 
-**Inputs:**  
+**Items**  
+The product process shall receive all neccessary items from the **item process**.
 
-
-**Process:**
-
+### Process
 ```
-Process
+|--- Requested
+  |--- New requests
+  |--- Waiting for items
+  |--- Ready to start
+|--- In progress
+  |--- Welding
+  |--- Ready for inspection
+  |--- Inspection
+  |--- Ready for testing
+  |--- Testing  
+  |--- Ready for external services  
+  |--- External services  
+|--- Done
 ```
 
-**Outputs:**  
+### Outputs
 
-
-**Customers:**  
+### Customers
