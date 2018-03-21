@@ -9,7 +9,7 @@ main:
     - title: "Knowledge"
       url: /knowledge/
 
-system:
+user-manual:
     - title: "Processes"
       children:
         - title: "Order"
