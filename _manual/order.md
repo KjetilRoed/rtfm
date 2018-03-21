@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Order Process"
+title: <i class="fas fa-file-alt"></i> Order Process
 permalink: /manual/order/
 author_profile: false
 sidebar:
