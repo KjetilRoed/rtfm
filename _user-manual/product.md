@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Product Process"
-permalink: /user-manual/product/
+permalink: /manual/product/
 author_profile: false
 sidebar:
-  nav: "user-manual"
+  nav: "manual"
 ---
 ## Goal
 

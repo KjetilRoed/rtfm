@@ -4,20 +4,20 @@ main:
       url: /goal/
     - title: "Values"
       url: /values/
-    - title: "User manual"
-      url: /user-manual/
+    - title: "Manual"
+      url: /manual/
     - title: "Knowledge"
       url: /knowledge/
 
-user-manual:
+manual:
     - title: "Processes"
       children:
         - title: "Order"
-          url: /user-manual/order/
+          url: /manual/order/
         - title: "Product"
-          url: /user-manual/product/
+          url: /manual/product/
         - title: "Item"
-          url: /user-manual/item/
+          url: /manual/item/
 
 knowledge:
     - title: "Welding"

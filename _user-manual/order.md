@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Order Process"
-permalink: /user-manual/order/
+permalink: /manual/order/
 author_profile: false
 sidebar:
-  nav: "user-manual"
+  nav: "manual"
 ---
 ## Goal
 
