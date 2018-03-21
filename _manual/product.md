@@ -9,26 +9,29 @@ toc: true
 toc_label: Index
 toc_icon: list-ol
 ---
-## Goal
-The goal of the Product process is to
+# Goal
+The goal of the Product process is to ...
 
-## SIPOC
-### Supplier
+# SIPOC
+## Supplier
+The main suppliers are:  
+* Order process  
+* Logistics process
 
-### Inputs
-Under normal circumstances work should not start without the following:
+## Inputs
+Under normal circumstances work should not start without *full kit* consisting of:
 
-#### Kanban cards
+### Kanban cards
 Cards shall provide information regarding:  
-* Product routing
-* Requirements to welding
-* Drawing no.
-* Quantity  
+* What does the customer want - specification & drawing  
+* When does the customer want it - due date  
+* What amount does the customer want - quantity  
+* Product routing  
 
-#### Items
-The product process shall receive all neccessary items from the **item process**.
+### Items
+The product process shall receive all the neccessary items required to build the product from the **item process**.
 
-### Process
+## Process
 ```
 |--- Requested
   |--- New requests
@@ -45,6 +48,6 @@ The product process shall receive all neccessary items from the **item process**
 |--- Done
 ```
 
-### Outputs
+## Outputs
 
-### Customers
+## Customers
