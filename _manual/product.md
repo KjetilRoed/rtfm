@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Product Process"
+title: <i class="fas fa-cubes"></i> "Product Process"
 permalink: /manual/product/
 author_profile: false
 sidebar:
@@ -9,7 +9,7 @@ toc: true
 toc_label: Index
 toc_icon: list-ol
 ---
-## <i class="fas fa-crosshairs"></i> Goal
+## Goal
 The goal of the Product process is to ...
 
 ## SIPOC
