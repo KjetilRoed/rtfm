@@ -47,6 +47,12 @@ The product process shall receive all the neccessary items required to build the
   |--- External services  
 |--- Done
 ```
+**REQUESTED**  
+The Requested step gives us information about upcomming work.  
+* New requests - Fresh work that enters the process, items have not been started yet.  
+* Waiting for items - The items process has started to fabricate the needed items, but are not yet finished.  
+* Ready to start - The items process has finished all required items, start when you have capacity.  
+{: .notice--info}
 ---
 ### Outputs
 
