@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "OUR SYSTEM"
-permalink: /system/
+permalink: /user-manual/
 author_profile: false
 sidebar:
-  nav: "system"
+  nav: "user-manual"
 ---
