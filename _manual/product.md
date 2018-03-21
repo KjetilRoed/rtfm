@@ -106,11 +106,17 @@ The expected output from the **Products** process consists of:
 * Products without any quality related issues regarding:  
   - Dimensions and parts - we are sure it will fit  
 * Documentation that validates that all requirements have been met regarding:  
-  - Welding traceability  - we know how it was welded and by whom  
-  - Welding operator qualifications - we know how to weld it  
-  - Non-destructive testing records - we know that our welds are free of defects  
-  - Proof testing records - we know our welds and materials will not fail  
-  - Surface treatment records - we know that our product will endure  
+  - Welding traceability  
+    *we know how it was welded and by whom*  
+  - Welding operator qualifications  
+    *we know how to weld it*  
+  - Non-destructive testing records  
+    *we know that our welds are free of defects*  
+  - Proof testing records  
+    *we know our welds and materials will not fail*  
+  - Surface treatment records  
+    *we know that our product will endure*  
+
 ---  
 
 ### Customers
