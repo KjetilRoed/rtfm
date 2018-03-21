@@ -32,7 +32,7 @@ Cards shall provide information regarding:
 * Product routing  
 
 #### Items
-The product process shall receive all the neccessary items required to build the product from the **item process**.  
+The product process shall receive all the neccessary items required to build the product from the **Item** process.  
 
 ---  
 
@@ -89,7 +89,7 @@ Products that have passed inspection and are waiting for testing.
 {: .notice--warning}
 
 **Testing - Activity**  
-Products that are subject to further testing outside of the *Construction* system. I.e pressure testing, lift testing etc.  
+Products that are subject to further testing outside of the **Construction** system. I.e pressure testing, lift testing etc.  
 {: .notice--warning}
 
 **Ready for external services - Queue**  
@@ -102,9 +102,18 @@ Products that have been sent to external service providers. I.e non-destructive 
 ---  
 
 ### Outputs
-
+The expected output from the **Products** process consists of:  
+* Products without any quality related issues regarding:  
+  - Dimensions and parts - we are sure it will fit  
+* Documentation that validates that all requirements have been met regarding:  
+  - Welding traceability  - we know how it was welded and by whom  
+  - Welding operator qualifications - we know how to weld it  
+  - Non-destructive testing records - we know that our welds are free of defects  
+  - Proof testing records - we know our welds and materials will not fail  
+  - Surface treatment records - we know that our product will endure  
 ---  
 
 ### Customers
+The main customer of the *Products* process is the downstream system *Assembly*.  
 
 ---
