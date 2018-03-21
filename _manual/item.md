@@ -5,6 +5,9 @@ permalink: /manual/item/
 author_profile: false
 sidebar:
   nav: "manual"
+toc: true
+toc_label: Index
+toc_icon: list-ol
 ---
 ## Goal
 The goal of the item process is to provide the required materials, in the required quantity at the required time to it's customer.

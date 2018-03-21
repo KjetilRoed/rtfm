@@ -5,6 +5,9 @@ permalink: /manual/product/
 author_profile: false
 sidebar:
   nav: "manual"
+toc: true
+toc_label: Index
+toc_icon: list-ol
 ---
 ## Goal
 The goal of the Product process is to
