@@ -9,7 +9,7 @@ toc: true
 toc_label: Index
 toc_icon: list-ol
 ---
-## Goal
+## <i class="fas crosshair"> Goal
 The goal of the Product process is to ... <i class="fas fa-camera-retro">
 
 ## SIPOC
