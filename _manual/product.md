@@ -16,15 +16,16 @@ The goal of the Product process is to
 ### Supplier
 
 ### Inputs
-Under normal circumstances work should not start without the following:  
-**Kanban cards**  
+Under normal circumstances work should not start without the following:
+
+#### Kanban cards
 Cards shall provide information regarding:  
 * Product routing
 * Requirements to welding
 * Drawing no.
 * Quantity  
 
-**Items**  
+#### Items
 The product process shall receive all neccessary items from the **item process**.
 
 ### Process
