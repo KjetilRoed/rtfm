@@ -17,7 +17,10 @@ The goal of the Product process is to ...
 The main suppliers are:  
 * Order process  
 * Item process  
----
+
+
+---  
+
 ### Inputs
 Under normal circumstances work should not start without *full kit* consisting of:
 
@@ -29,8 +32,10 @@ Cards shall provide information regarding:
 * Product routing  
 
 #### Items
-The product process shall receive all the neccessary items required to build the product from the **item process**.
----
+The product process shall receive all the neccessary items required to build the product from the **item process**.  
+
+---  
+
 ### Process
 ```
 |--- Requested
@@ -55,11 +60,14 @@ Fresh work that enters the process, items have not been started yet.
 The items process has started to fabricate the needed items, but are not yet finished.  
 **Ready to start**  
 The items process has finished all required items, start when you have capacity.  
-{: .notice--info}
----
+{: .notice--info}  
+
+---  
+
 ### Outputs
 
----
+---  
+
 ### Customers
 
 ---
