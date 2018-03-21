@@ -15,7 +15,7 @@ The goal of the Product process is to
 ## SIPOC
 ### Supplier
 
-###Inputs
+### Inputs
 Under normal circumstances work should not start without the following:  
 **Kanban cards**  
 Cards shall provide information regarding:  

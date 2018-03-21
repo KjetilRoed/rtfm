@@ -13,14 +13,13 @@ toc_icon: list-ol
 The goal of the item process is to provide the required materials, in the required quantity at the required time to it's customer.
 
 ## SIPOC
-**Supplier:**  
+### Supplier
 Steel vendors
 
-**Inputs:**  
+### Inputs
 Kanban cards detailing shape, material grade and quantity
 
-**Process:**
-
+### Process
 ```
 |--- Requested
 |--- Cut
@@ -39,8 +38,8 @@ Kanban cards detailing shape, material grade and quantity
 |--- Done
 ```
 
-**Outputs:**  
+### Outputs
 Items ready for fit-up in steel assemblies and material traceability records (if applicable)
 
-**Customers:**  
+### Customers
 The main customer of the item process is the product process, but might also include department 61 Workshop or the end customer
