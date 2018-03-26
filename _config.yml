@@ -276,3 +276,7 @@ collections:
    manual:
      output: true
      permalink: /:collection/:path
+collections:
+   techdesc:
+     output: true
+     permalink: /:collection/:path
