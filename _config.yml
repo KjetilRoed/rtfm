@@ -275,4 +275,4 @@ collections:
 collections:
    manual:
      output: true
-     permalink: /:collection/:path
+     permalink: /:collection/:path  
