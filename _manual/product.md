@@ -54,11 +54,12 @@ The product process shall receive all the neccessary items required to build the
 ```
 <details>
 <summary>Process steps</summary>  
+<p>
 #### REQUESTED
-<p>The Requested step gives us information about upcomming work.</p>
-{: .notice--info}
-
-#### New requests - Queue
+The Requested step gives us information about upcomming work.
+{: .notice--info}</p>
+</details>
+<!-- #### New requests - Queue
 <p>Fresh work that enters the process, items have not been started yet.</p>
 {: .notice--info}
 
@@ -100,10 +101,8 @@ Products that have been fully tested and accepted and are waiting for external s
 
 **External services - Activity**  
 Products that have been sent to external service providers. I.e non-destructive testing & surface treatment.  
-{: .notice--warning}  
----  
-</p>  
-</details>  
+{: .notice--warning}   -->
+---   
 ### Outputs
 The expected output from the **Products** process consists of:  
 * Products without any quality related issues regarding:  
