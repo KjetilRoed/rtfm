@@ -52,17 +52,17 @@ The product process shall receive all the neccessary items required to build the
   |--- External services  
 |--- Done
 ```
-<details><summary>Process steps</summary>  
-<p>  
-**REQUESTED**  
-The Requested step gives us information about upcomming work.  
+<details>
+<summary>Process steps</summary>  
+#### REQUESTED
+<p>The Requested step gives us information about upcomming work.</p>
 {: .notice--info}
 
-**New requests - Queue**  
-Fresh work that enters the process, items have not been started yet.  
+#### New requests - Queue
+<p>Fresh work that enters the process, items have not been started yet.</p>
 {: .notice--info}
 
-**Waiting for items - Queue**  
+#### Waiting for items - Queue
 The items process has started to fabricate the needed items, but are not yet finished.  
 {: .notice--info}
 
