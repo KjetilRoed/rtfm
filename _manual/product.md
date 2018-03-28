@@ -52,6 +52,8 @@ The product process shall receive all the neccessary items required to build the
   |--- External services  
 |--- Done
 ```
+<details><summary>Process steps</summary>
+<p>
 **REQUESTED**  
 The Requested step gives us information about upcomming work.  
 {: .notice--info}
@@ -100,7 +102,8 @@ Products that have been fully tested and accepted and are waiting for external s
 Products that have been sent to external service providers. I.e non-destructive testing & surface treatment.  
 {: .notice--warning}  
 ---  
-
+</p>
+</details>
 ### Outputs
 The expected output from the **Products** process consists of:  
 * Products without any quality related issues regarding:  
