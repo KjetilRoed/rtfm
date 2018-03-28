@@ -55,9 +55,12 @@ The product process shall receive all the neccessary items required to build the
 <details>
 <summary>Process steps</summary>  
 <p>
-#### REQUESTED
+
+#### REQUESTED  
 The Requested step gives us information about upcomming work.
-{: .notice--info}</p>
+{: .notice--info}
+
+</p>
 </details>
 <!-- #### New requests - Queue
 <p>Fresh work that enters the process, items have not been started yet.</p>
