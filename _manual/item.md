@@ -12,14 +12,26 @@ toc_icon: list-ol
 ## Goal
 The goal of the item process is to provide the required materials, in the required quantity at the required time to it's customer.
 
+---
+
+## Responsibility and authority
+### Waterjet operator
+
+### Sheet metal worker
+
+### Machinist
+
+---
+
 ## SIPOC
 ### Supplier
-Steel vendors
+The main suppliers of the **ITEM PROCESS** is the **ORDER PROCESS** and the **PURCHASE PROCESS**
 
 ---
 
 ### Inputs
-Kanban cards detailing shape, material grade and quantity
+* Kanban cards detailing shape, material grade and quantity
+* Stock materials
 
 ---
 

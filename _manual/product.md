@@ -53,15 +53,6 @@ The product process shall receive all the neccessary items required to build the
 |--- Done
 ```
 
-<details>
-<summary>Process steps</summary>
-<p>
-
-The Requested step gives us information about upcomming work.
-
-</p>
-</details>
-
 ---
 
 ### Outputs
