@@ -10,7 +10,7 @@ toc_label: Index
 toc_icon: list-ol
 ---
 ## Goal
-The goal of the Product process is to ...
+The goal of the Product process is to make badass welded products worthy of weldporn excellence!
 
 ## SIPOC
 ### Supplier
